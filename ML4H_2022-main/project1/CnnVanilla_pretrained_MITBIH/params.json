@@ -1,0 +1,1 @@
+{"module__strides": [2, 1], "module__n_filters": [64, 128], "module__kernel_sizes": [13, 7], "module__fully_connected_features": 64, "module__adaptive_average_len": 8, "module__residual": false, "lr": 0.0002, "iterator_train__batch_size": 256, "criterion__weight": [1.0, 1.0, 1.0, 1.0, 1.0]}
